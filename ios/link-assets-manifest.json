@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/BebasNeue-Regular.ttf",
+      "sha1": "8b3aaeb978f3cb5f575860774b50c332338563c1"
+    },
+    {
+      "path": "assets/fonts/CormorantGaramond-VariableFont_wght.ttf",
+      "sha1": "df909c208c898cbc0d4d25176e8cbe44ba71a1e0"
+    }
+  ]
+}

@@ -61,7 +61,7 @@ export const shared = StyleSheet.create({
     color: '#fff',
     fontFamily: FONT_CORMORANT_GARAMOND,
     fontSize: 16,
-    fontWeight: '400'
+    fontWeight: '500'
   },
 
   title: {
@@ -115,7 +115,7 @@ export const form = StyleSheet.create({
     color: '#fff',
     fontFamily: FONT_CORMORANT_GARAMOND,
     fontSize: 16,
-    fontWeight: '400',
+    fontWeight: '500',
     marginBottom: 8
   },
 
@@ -132,7 +132,7 @@ export const form = StyleSheet.create({
     color: '#000000',
     fontFamily: FONT_CORMORANT_GARAMOND,
     fontSize: 16,
-    fontWeight: '400',
+    fontWeight: '500',
   },
 
   backButton: {
@@ -175,7 +175,7 @@ export const card = StyleSheet.create({
     color: '#FDF565',
     fontSize: 16,
     fontFamily: FONT_CORMORANT_GARAMOND,
-    fontWeight: '400',
+    fontWeight: '500',
     marginBottom: 5
   },
 
@@ -183,7 +183,7 @@ export const card = StyleSheet.create({
     color: '#fff',
     fontSize: 14,
     fontFamily: FONT_CORMORANT_GARAMOND,
-    fontWeight: '400'
+    fontWeight: '500'
   },
 
   icon: {
@@ -242,7 +242,7 @@ export const modal = StyleSheet.create({
     color: '#FF1464',
     fontSize: 16,
     fontFamily: FONT_CORMORANT_GARAMOND,
-    fontWeight: '400'
+    fontWeight: '500'
   },
 
   checkboxButton: {
