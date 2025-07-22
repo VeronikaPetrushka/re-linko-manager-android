@@ -1,0 +1,13 @@
+Title: ReLinko Manager
+
+Description: 
+
+ReLinko Manager is a simple and intuitive app for saving, organizing, and quickly accessing important links. It’s designed for everyday use, whether you need to store work resources, personal collections, or things to read later. The app follows the principle of “add quickly – find easily,” with a clean and minimal interface that stays out of your way. Titles and icons are clearly readable, even on the move.
+
+With ReLinko Manager, you can easily add links, include short descriptions, and tag them for better organization. Tags like “Work,” “Shopping,” or “Read Later” help you filter and locate content fast. All links are stored in a main library, where you can search by title or URL and view everything in a simple list format.
+
+To keep things even more organized, you can create custom folders and collections such as “Projects,” “Blogs,” or “Personal,” and move links between them as needed. Opening all links in a collection with a single tap is also supported, along with sorting by date or manually.
+
+For quick access, you can pin your most important links. Up to five of them are displayed as favorites on the home screen, always ready when you need them. ReLinko Manager also automatically saves your link history and lets you set reminders to revisit specific links after a certain number of days.
+
+Built for clarity, speed, and simplicity, ReLinko Manager helps you stay organized without distractions.
