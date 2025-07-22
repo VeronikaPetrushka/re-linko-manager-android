@@ -1,4 +1,4 @@
-package com.relinkomanager
+package plinko.play.win.com.links
 
 import android.app.Application
 import com.facebook.react.PackageList

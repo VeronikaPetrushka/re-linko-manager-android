@@ -279,7 +279,7 @@
 				CURRENT_PROJECT_VERSION = 2;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = ReLinkoManager/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "ReLinko Manager";
+				INFOPLIST_KEY_CFBundleDisplayName = ReLinkoManager;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -292,7 +292,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.reLinko.manager.2025;
+				PRODUCT_BUNDLE_IDENTIFIER = plinko.play.win.com.links;
 				PRODUCT_NAME = ReLinkoManager;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -308,7 +308,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 2;
 				INFOPLIST_FILE = ReLinkoManager/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "ReLinko Manager";
+				INFOPLIST_KEY_CFBundleDisplayName = ReLinkoManager;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -321,7 +321,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.reLinko.manager.2025;
+				PRODUCT_BUNDLE_IDENTIFIER = plinko.play.win.com.links;
 				PRODUCT_NAME = ReLinkoManager;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
